@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241864450730",
+    "firebase_url": "https://tutoringcalendar-ebc00.firebaseio.com",
+    "project_id": "tutoringcalendar-ebc00",
+    "storage_bucket": "tutoringcalendar-ebc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241864450730:android:c627c0ef58f79b927366d3",
+        "android_client_info": {
+          "package_name": "com.example.tutoringcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241864450730-fu569m16c5rbbl52n820rama7i6alkhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutoringcalendar",
+            "certificate_hash": "9bf9a3d6cb570a3b2193ab577292b78fc5bdf492"
+          }
+        },
+        {
+          "client_id": "241864450730-pleccfgt69haopc810ffqtt9faf9e6jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5E46z6pDT9oCTMNDlIUPPdeOrtvQ0Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241864450730-pleccfgt69haopc810ffqtt9faf9e6jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
